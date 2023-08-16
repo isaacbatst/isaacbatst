@@ -1,1 +1,5 @@
-![My github stats](https://github-readme-stats.vercel.app/api?username=isaacbatst&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+Desenvolvedor Full Stack e Especialista em Desenvolvimento Web na Trybe.
+
+Projetos pessoais:
+
+- [T20 Sheet Builder](https://github.com/isaacbatst/t20-sheet-builder): biblioteca em javascript para construção de ficha para o RPG brasileiro Tormenta 20.
