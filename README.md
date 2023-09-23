@@ -1,7 +1,7 @@
-Desenvolvedor Full Stack e Especialista em Desenvolvimento Web na Trybe.
+Full Stack Developer and Web Development Specialist at @betrybe.
 
-Estudo programação desde 2014, atuo profissionalmente desde 2019.
+Developing since 2014, working with it since 2019.
 
-Projetos pessoais:
+Projects:
 
-- [T20 Sheet Builder](https://github.com/isaacbatst/t20-sheet-builder): biblioteca em javascript para construção de ficha para o RPG brasileiro Tormenta 20.
+- [T20 Sheet Builder](https://github.com/isaacbatst/t20-sheet-builder): typescript library for Brazilian RPG Tormenta 20 sheet building.
