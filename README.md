@@ -1,4 +1,4 @@
-Full Stack Developer and Web Development Specialist at @betrybe.
+Web Development Specialist at @betrybe and Full Stack Developer
 
 Developing since 2014, working with it since 2019.
 
